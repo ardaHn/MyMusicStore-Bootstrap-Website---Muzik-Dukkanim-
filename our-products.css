@@ -39,27 +39,7 @@ li:nth-child(+2) {
     text-align: center;
 }
 
-#merhaba {
-    color: crimson;
-}
-
-#ourinstheader {
-    font-size: 20px;
-    color: #a98d49
-}
-
-.list2 li {
-    color: black;
-    list-style-type: disc;
-    list-style-position:inside;
-}
-
 #ürünlerimiz {
-    text-decoration: none;
-}
-
-#aboutusp {
-    padding: 0px;
+    color: rgb(117, 42, 250)
 }
 /* MAIN-END */
-
