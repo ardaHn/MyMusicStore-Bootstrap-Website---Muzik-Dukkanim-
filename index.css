@@ -1,0 +1,58 @@
+
+/* NAV START */
+.list {
+
+    list-style-type: none;
+    display: flex;
+    background-color: rgb(15, 9, 9);
+    padding: 30px;
+}
+
+.list li {
+    color: lightslategray;
+    margin-right: 20px;
+}
+
+li:nth-child(+1) {
+    color: crimson;
+}
+
+li:nth-child(+2) {
+    color: cornsilk;
+}
+
+.list li:hover {
+    color: cornsilk;
+}
+/* NAV END */
+
+
+
+/* MAIN-START */
+.jumbotron {
+    background-color: #E9ECEF;
+    text-align: center;
+}
+
+#merhaba {
+    color: crimson;
+}
+
+#ourinstheader {
+    font-size: 20px;
+    color: #a98d49
+}
+
+.list2 li {
+    color: black;
+    list-style-type: disc;
+    list-style-position:inside;
+}
+
+#ürünlerimiz {
+    text-decoration: none;
+}
+
+#aboutusp {
+    padding: 0px;
+}
